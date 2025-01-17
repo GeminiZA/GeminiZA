@@ -1,7 +1,7 @@
 Hi
 I've been coding in Python and Javascript primarily for 6 years
-Recently discovered and fell in love with Go
-Really into network programming and nerd out about protocols
+Recently discovered and fell in love with Go.
+Really into network programming and nerd out about protocols.
 Learning C++
 
 Follow me on linkedin and X although I don't use them much:
